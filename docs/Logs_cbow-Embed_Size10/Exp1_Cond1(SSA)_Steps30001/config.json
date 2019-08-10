@@ -6,7 +6,7 @@
         154,
         10
       ],
-      "tensorPath": "https://github.com/Ign-Es/Embeddings-CBOW-SKIP/blob/master/docs/Logs_cbow-Embed_Size10/Exp1_Cond1(SSA)_Steps30001/normalized_embeddings.csv"
+      "tensorPath": "https://gist.githubusercontent.com/Ign-Es/Embeddings-CBOW-SKIP/blob/master/docs/Logs_cbow-Embed_Size10/Exp1_Cond1(SSA)_Steps30001/normalized_embeddings.csv"
     }
   ]
 }
