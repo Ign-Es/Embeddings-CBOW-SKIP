@@ -1,0 +1,12 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "SKIP_E1_FSSA_10EMB",
+      "tensorShape": [
+        151,
+        10
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Ign-Es/Embeddings-CBOW-SKIP/master/docs/Logs_skip-Embed_Size10/Exp1_Cond6(FSSA)_Steps30001/normalized_embeddings.csv"
+    }
+  ]
+}

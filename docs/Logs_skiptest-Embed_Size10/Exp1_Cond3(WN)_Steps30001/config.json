@@ -1,0 +1,12 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "SKIP_E1_WN_10EMB",
+      "tensorShape": [
+        151,
+        10
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Ign-Es/Embeddings-CBOW-SKIP/master/docs/Logs_skiptest-Embed_Size10/Exp1_Cond3(WN)_Steps30001/normalized_embeddings.csv"
+    }
+  ]
+}
