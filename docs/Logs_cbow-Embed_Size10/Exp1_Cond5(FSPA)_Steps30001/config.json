@@ -3,7 +3,7 @@
     {
       "tensorName": "CBOW_E1_FSPA_10EMB",
       "tensorShape": [
-        154,
+        151,
         10
       ],
       "tensorPath": "https://github.com/Ign-Es/Embeddings-CBOW-SKIP/blob/master/docs/Logs_cbow-Embed_Size10/Exp1_Cond5(FSPA)_Steps30001/normalized_embeddings.csv"

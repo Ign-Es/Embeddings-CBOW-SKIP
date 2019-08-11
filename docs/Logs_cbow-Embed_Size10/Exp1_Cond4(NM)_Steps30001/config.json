@@ -3,7 +3,7 @@
     {
       "tensorName": "CBOW_E1_NM_10EMB",
       "tensorShape": [
-        154,
+        151,
         10
       ],
       "tensorPath": "https://raw.githubusercontent.com/Ign-Es/Embeddings-CBOW-SKIP/master/docs/Logs_cbow-Embed_Size10/Exp1_Cond4(NM)_Steps30001/normalized_embeddings.csv"
